@@ -9,5 +9,8 @@ show_downloads: false
 github:
   repository_url: ""
 
+baseurl: "/VPP"
+url: "https://cse-ai-lab.github.io"
+
 # Markdown renderer (default is fine; keep explicit)
 markdown: kramdown
