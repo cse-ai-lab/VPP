@@ -1,0 +1,13 @@
+title: "Visual Premise Proving (VPP)"
+description: "A benchmark for premise-grounded visual reasoning over scientific figures."
+theme: jekyll-theme-cayman
+
+# Optional: show downloads button (Cayman supports this)
+show_downloads: false
+
+# Project links (used by some themes/plugins; safe to keep)
+github:
+  repository_url: ""
+
+# Markdown renderer (default is fine; keep explicit)
+markdown: kramdown
