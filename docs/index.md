@@ -1,5 +1,7 @@
-# Visual Premise Proving (VPP)
-
+---
+layout: default
+title: "Visual Premise Proving (VPP)"
+---
 
 ## Motivation
 
