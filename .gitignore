@@ -1,0 +1,10 @@
+data/*
+new/*
+outputs/*
+*.log
+CVPR_26/*
+.ipynb_checkpoints/*
+.DS_Store
+evaluation/__pycache__/
+*.txt
+*.dart
