@@ -235,7 +235,7 @@ Each task is evaluated using its appropriate metric (listed in the final column)
 These results show that **dense chart understanding benefits strongly from explicit visual premise modeling**, providing accurate component extraction that directly supports downstream reasoning and VQA.
 
 ---
-
+<!-- 
 ## 🧰 Code
 
 * **Training / inference:** `scripts/`
@@ -268,7 +268,7 @@ python eval/run_eval.py --split test --preds preds.jsonl --out metrics.json
 * Code: *TBD (MIT/Apache-2.0 recommended)*
 * Data: *TBD (CC BY 4.0 often used for datasets; ensure compliance)*
 
----
+--- -->
 
 ## 🙏 Acknowledgements
 
