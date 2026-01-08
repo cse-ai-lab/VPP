@@ -2,6 +2,12 @@
 layout: default
 title: "Visual Premise Proving (VPP)"
 ---
+<figure style="margin: 2rem auto; text-align: center;">
+  <img src="{{ site.baseurl }}/assets/img/chain_composition.png" alt="VPP teaser figure" style="max-width: 100%; height: auto; border-radius: 8px;">
+  <figcaption style="margin-top: 0.6rem; font-size: 0.95rem; color: #57606a;">
+    Figure 1: Visual Premise Proving (VPP) decomposes chart QA into verifiable premises and evaluates chain validity.
+  </figcaption>
+</figure>
 
 ## Motivation
 
